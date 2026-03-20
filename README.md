@@ -2,7 +2,7 @@
 # GitInsurance App
 
 ## Overview
-GitInsurance App is a Python application designed to [describe your app's purpose].
+GitInsurance App is a Python application designed to test and learn good practices and proper uses.
 
 ## Requirements
 - Python 3.8+
